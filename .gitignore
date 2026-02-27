@@ -1,0 +1,89 @@
+﻿# Built application files
+*.apk
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+*/build/
+gradle-app.setting
+
+# Local configuration file
+local.properties
+
+# Proguard folder
+proguard/
+
+# Log Files
+*.log
+
+# Android Studio
+.navigation/
+captures/
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/*.xml
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/misc.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (IMPORTANT: never commit this)
+google-services.json
+**/google-services.json
+
+# Firebase
+**/firebase-crashlytics.properties
+**/firebase-analytics.properties
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Environment variables
+.env
+.env.local
+secrets.properties
+keys.properties
+signing.properties
+
+# PDF Exports
+*.pdf
+!README.pdf
+
+# Temp files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
